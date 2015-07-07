@@ -1,0 +1,12 @@
+/*
+* Admin CSS file
+*/
+.inside table th{
+    padding: 5px;
+}
+.inside table td{
+    padding-left: 20px;
+}
+.inside table{
+    
+}
